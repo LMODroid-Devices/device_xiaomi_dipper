@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_dipper.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_dipper-user \
-    lmodroid_dipper-userdebug \
-    lmodroid_dipper-eng
